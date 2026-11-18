@@ -1,0 +1,22 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+mlruns/
+mlflow.db
+models/*.joblib
+models/evaluation.json
+models/selected_model.txt
+
+# Python virtual environments
+.venv/
+.venv311/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# MLflow local files
+mlflow.db
+mlruns/
